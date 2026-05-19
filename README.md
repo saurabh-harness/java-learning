@@ -1,2 +1,2 @@
-# java-learning
-Github repository for learning java
+# Java Learning
+Github repository for learning java.
