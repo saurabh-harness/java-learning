@@ -1,7 +1,5 @@
-FROM alpine:3.22
+FROM mcr.microsoft.com/windows/nanoserver:ltsc2025
 
-WORKDIR /app
+WORKDIR C:\\app
 
 COPY . .
-
-CMD ["ls", "-la", "/app"]
